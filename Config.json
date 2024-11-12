@@ -1,5 +1,12 @@
 {
   "S1":"209.208.108.187",
   "S2":"305|323|1456|0187|019|548",
-  "":""
+  "SignDataBlockInternal":"https://ebiz-esb.motorola.com/iqs-0.0.1-SNAPSHOT/webservice/IQS_DataBlockSign_3.5",
+  "SignDataBlockExternal":"https://ebiz-esb.motorola.com/iqs-0.0.1-SNAPSHOT/webservice/IQS_DataBlockSign_3.5",
+  "SignDataBlockTestInternal":"https://ebiz-esb.motorola.com/iqs-0.0.1-SNAPSHOT/webservice/IQS_DataBlockSign_3.5",
+  "SignDataBlockTestExternal":"https://ebiz-esb.motorola.com/iqs-0.0.1-SNAPSHOT/webservice/IQS_DataBlockSign_3.5",
+  "TokenRefreshInternal":"https://ebiz-esb.motorola.com/rsdc/Azure/TokenRefreshClient/",
+  "TokenRefreshExternal":"https://ebiz-esb.motorola.com/rsdc/Azure/TokenRefresh/",
+  "TokenRefreshTestInternal":"https://ebiz-esb-test.motorola.com/rsdc/Azure/TokenRefreshClient/",
+  "TokenRefreshTestExternal":"https://ebiz-esb-test.motorola.com/rsdc/Azure/TokenRefresh/",
 }
